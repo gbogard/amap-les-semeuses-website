@@ -1,20 +1,30 @@
 ---
 templateKey: index-page
 image: /img/jumbo.jpg
-heading: Faire vivre une agriculture paysanne 
-subheading: L'AMAP des Semeuses soutient une agriculture respectueuse des hommes et de l'environnement dans le secteur de Châtenois.
-info: Lorem Ipsum dolor sit amet
+heading: Faire vivre une agriculture paysanne
+subheading: >-
+  L'AMAP des Semeuses soutient une agriculture respectueuse des hommes et de
+  l'environnement dans le secteur de Châtenois.
 reasons:
-  link: https://crouton.net
   items:
     - image: /img/raise-hand.png
-      title: Regrouper
       text: des consommateurs désireux de s'impliquer dans l'économie solidaire
+      title: Regrouper
     - image: /img/seed.png
+      text: 'une agriculture de proximité saine, socialement équitable et écologique'
       title: Soutenir
-      text: une agriculture de proximité saine, socialement équitable et écologique
     - image: /img/team.png
+      text: >-
+        un lien social entre les consommateurs et soutenir des producteurs
+        locaux
       title: Recréer
-      text: un lien social entre les consommateurs et soutenir des producteurs locaux
-  info: Foo bar baz
-location: '{"type":"Point","coordinates":[48.3280,5.8153]}'
+  link: /about
+info: |-
+  AMAP des Semeuses
+  1 bis Grande Rue
+  88170 Courcelles-sous-Chatenois
+
+  AmapSemeuses@tutamail.com
+location: '{"type":"Point","coordinates":[5.815351,48.3289954]}'
+---
+
