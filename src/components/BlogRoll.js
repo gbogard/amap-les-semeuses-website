@@ -11,8 +11,8 @@ class BlogRoll extends React.Component {
     return (
       <div className="columns is-multiline">
         {posts &&
-          posts.slice(0,4).map(({ node: post }) => (
-            <div className="is-parent column is-4" key={post.id}>
+          posts.map(({ node: post }) => (
+            <div className="is-parent column is-one-quarter" key={post.id}>
               <article className="box">
                 <header>
                   {post.frontmatter.featuredimage ? (
@@ -83,10 +83,9 @@ export default () => (
                 title
                 templateKey
                 date(formatString: "MMMM DD, YYYY")
-                featuredpost
                 featuredimage {
                   childImageSharp {
-                    fluid(maxWidth: 120, quality: 100) {
+                    fluid(maxWidth: 256, quality: 100) {
                       ...GatsbyImageSharpFluid
                     }
                   }

@@ -11,7 +11,10 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer has-background-black has-text-white-ter">
-       Footer
+          AMAP Les Semeuses. 2019 Tous droits réservés.
+          <br />
+          <Link to="/a-propos">À propos</Link><br />
+          Site internet par <a href="https://guillaumebogard.dev">Guillaume Bogard</a>
       </footer>
     )
   }

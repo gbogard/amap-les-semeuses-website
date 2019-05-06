@@ -18,7 +18,7 @@ reasons:
         un lien social entre les consommateurs et soutenir des producteurs
         locaux
       title: Recréer
-  link: /about
+  link: /a-propos
 info: |-
   AMAP des Semeuses
   1 bis Grande Rue

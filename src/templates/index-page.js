@@ -16,7 +16,7 @@ export const IndexPageTemplate = ({
   subheading,
   info,
   reasons,
-  location: { coordinates: [lat, lng] },
+  location: { coordinates: [lng, lat] },
 }) => (
     <div>
         <div
@@ -33,6 +33,7 @@ export const IndexPageTemplate = ({
         <div className="container section has-text-centered">
             <h3 className="title is-3">Pourquoi l'AMAP des Semeuses ?</h3>
             <Features gridItems={reasons.items} />
+            <Link to={reasons.link}>En savoir plus</Link>
         </div>
         <section className="section has-background-light">
             <div className="container">
@@ -44,7 +45,9 @@ export const IndexPageTemplate = ({
             <div className="hero-body">
                 <div className="container has-text-centered">
                     <h3 className="title is-3">Informations</h3>
-                    <p>{info}</p>
+                    <p>
+                        {info.split('\n').map(t => <div key={t}>{t}</div>)} 
+                    </p>
                 </div>
             </div>
         </section>
