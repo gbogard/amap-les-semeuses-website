@@ -1,13 +1,20 @@
 import React, { Component } from 'react'
 import PropTypes from 'prop-types'
-import { Map as LeafletMap, TileLayer, Marker } from 'react-leaflet'
 
-const icon = global.L.icon({
-    iconUrl: '/img/map-pin.png',
-    iconSize: [64, 64],
-    iconAnchor: [20, 64],
-    popupAnchor: [-3, -76],
-});
+let LeafletMap = () => null, TileLayer, Marker, icon;
+if (global.window) {
+    const l = require('react-leaflet');
+    LeafletMap = l.Map
+    TileLayer = l.TileLayer
+    Marker = l.Marker
+    icon= global.L.icon({
+        iconUrl: '/img/map-pin.png',
+        iconSize: [64, 64],
+        iconAnchor: [20, 64],
+        popupAnchor: [-3, -76],
+    });
+
+}
 
 class Map extends Component {
     render() {
