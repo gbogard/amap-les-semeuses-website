@@ -64,3 +64,10 @@ collections:
           - label: Localisation
             name: location
             widget: map
+      - file: "src/pages/about/index.md"
+        label: "Page À propos"
+        name: "about"
+        fields:
+        - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+        - {label: "Titre", name: "title", widget: "string"}
+        - {label: "Contenu", name: "body", widget: "markdown"}
