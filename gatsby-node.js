@@ -3,12 +3,16 @@ const path = require('path')
 const { createFilePath } = require('gatsby-source-filesystem')
 const { fmImagesToRelative } = require('gatsby-remark-relative-images')
 
+const POSTS_PER_PAGE = 6;
+
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
   return graphql(`
     {
-      allMarkdownRemark(limit: 1000) {
+      allMarkdownRemark(
+        limit: 1000
+      ) {
         edges {
           node {
             id
@@ -28,9 +32,8 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
 
-    const posts = result.data.allMarkdownRemark.edges
-
-    posts.forEach(edge => {
+    const pages = result.data.allMarkdownRemark.edges
+    pages.forEach(edge => {
       const id = edge.node.id
       createPage({
         path: edge.node.fields.slug,
@@ -41,6 +44,21 @@ exports.createPages = ({ actions, graphql }) => {
         context: {
           id,
         },
+      })
+    })
+
+    const posts = pages.filter(edge => edge.node.frontmatter.templateKey === 'blog-post');
+    const numPages = Math.ceil(posts.length / POSTS_PER_PAGE);
+    Array.from({ length: numPages }).forEach((_, i) => {
+      createPage({
+        path: i === 0 ? `/blog` : `/blog/${i + 1}`,
+        component: path.resolve('src/templates/blog-page.js'),
+        context: {
+          limit: POSTS_PER_PAGE,
+          skip: i * POSTS_PER_PAGE,
+          numPages,
+          currentPage: i + 1,
+        }
       })
     })
   })

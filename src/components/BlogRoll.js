@@ -5,9 +5,7 @@ import PreviewCompatibleImage from './PreviewCompatibleImage'
 
 class BlogRoll extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
-
+    const { data: { allMarkdownRemark: { edges: posts } }  } = this.props;
     return (
       <div className="columns is-multiline">
         {posts &&
@@ -70,6 +68,7 @@ export default () => (
       query BlogRollQuery {
         allMarkdownRemark(
           sort: { order: DESC, fields: [frontmatter___date] }
+          limit: 4
           filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
         ) {
           edges {
