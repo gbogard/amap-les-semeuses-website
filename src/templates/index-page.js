@@ -19,10 +19,7 @@ export const IndexPageTemplate = ({
   location: { coordinates: [lng, lat] },
 }) => (
     <div>
-        <div
-            className="jumbo"
-            style={withBackgroundImage(image)}
-        >
+        <div className="jumbo" style={withBackgroundImage(image)}>
             <div>
                 <div>
                     <h2>{heading}</h2>

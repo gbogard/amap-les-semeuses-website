@@ -9,7 +9,7 @@ export default class BlogIndexPage extends React.Component {
       <Layout>
         <div className="blog-title">
           <h1 className="container has-text-weight-bold is-size-1">
-            Dernieres nouvelles
+            Dernières nouvelles
           </h1>
         </div>
         <section className="section">
