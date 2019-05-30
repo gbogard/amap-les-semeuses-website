@@ -12,8 +12,6 @@ C'est d'ailleurs **à Rémois** (9 à Rémois, 88170 Longchamp-sous-Châtenois),
 
 Semeuses de graines, d'idées, d'espoirs, nous avons choisi de nous réunir sous la forme d'une AMAP afin de porter et partager les valeurs qui nous sont chères. 
 
-![](/img/3.jpg)
-
 ![](/img/2.jpg)
 
 Nous proposons à ce jour des paniers de légumes d'Aline, des pommes de terre de Nicolas et des yaourts de brebis de Valentine : le tout en bio bien sûr !
