@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Bientôt la 1ère distribution de légumes chez Aline !
 date: 2019-05-30T13:52:32.223Z
 description: Rendez-vous à Rémois le vendredi 7 juin.
-featuredimage: /img/7.jpg
+featuredimage: /img/7bis.jpg
 ---
 Depuis la soirée de lancement du 13 mai, l'AMAP des Semeuses est heureuse de compter 32 adhérents, dont 9 membres bienfaiteurs. 
 
