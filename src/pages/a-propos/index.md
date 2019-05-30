@@ -2,7 +2,7 @@
 templateKey: about-page
 title: 'Qui sommes-nous ? '
 ---
-### L'AMAP des Semeuses est née de la volonté de proposer une façon de consommer solidaire et responsable.
+### L'AMAP des Semeuses est née de la volonté de proposer une façon de consommer solidaire, respecteuse et responsable.
 
 ![](/img/3.jpg)
 
