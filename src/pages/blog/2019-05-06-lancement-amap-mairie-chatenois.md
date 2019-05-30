@@ -9,6 +9,6 @@ featuredimage: /img/semeuses.jpg
 ---
  Au cours de cette soirée, nous vous expliquerons ce qu'est une AMAP, quels en sont les grands principes et nous vous présenterons l'AMAP des Semeuses. 
 
-Vous découvrirez notamment comment nous avons choisi de fonctionner et de quelle façon nous rejoindre. Vous pourrez rencontrer nos producteurs, échanger avec eux et, si vous le souhaitez, prendre un contrat. 
+Vous découvrirez notamment comment nous avons choisi de fonctionner et de quelle façon nous rejoindre. Vous pourrez rencontrer nos producteurs, échanger avec eux et, si vous le souhaitez, souscrire un contrat. 
 
 Nous vous espérons nombreux, à bientôt le plaisir de vous rencontrer !
