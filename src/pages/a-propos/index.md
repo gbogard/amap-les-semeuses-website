@@ -2,7 +2,7 @@
 templateKey: about-page
 title: 'Qui sommes-nous ? '
 ---
-### L'AMAP des Semeuses est née de la volonté de proposer une façon de consommer solidaire, respecteuse et responsable dans le secteur de Châtenois.
+### L'AMAP des Semeuses est née de la volonté de proposer une façon de consommer solidaire, respectueuse et responsable dans le secteur de Châtenois.
 
 ![](/img/3.jpg)
 
