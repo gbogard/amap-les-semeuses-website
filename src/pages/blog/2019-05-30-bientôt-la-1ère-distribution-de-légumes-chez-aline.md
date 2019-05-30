@@ -13,4 +13,4 @@ Bientôt le plaisir de vous rencontrer ou de vous retrouver à Rémois, chez Ali
 
 Nicolas, notre producteur de pommes de terre, sera présent également pour échanger avec vous. Pour rappel, la distribution des pommes de terre débutera le vendredi 26 juillet.
 
-Vous rencontrerez aussi Valentine, notre productrice de yaourts de brebis, auprès de qui vous pouvez souscrire un contrat jusqu'au vendredi 14 juin.
+Vous rencontrerez aussi Valentine, notre productrice de yaourts de brebis, auprès de qui vous pouvez souscrire un contrat jusqu'au vendredi 14 juin prochain.
