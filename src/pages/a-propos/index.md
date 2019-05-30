@@ -12,7 +12,7 @@ C'est d'ailleurs **à Rémois** (9 à Rémois, 88170 Longchamp-sous-Châtenois),
 
 Semeuses de graines, d'idées, d'espoirs, nous avons choisi de nous réunir sous la forme d'une AMAP afin de porter et partager les valeurs qui nous sont chères. 
 
-![](/img/1.jpg)
+![](/img/3.jpg)
 
 ![](/img/2.jpg)
 
