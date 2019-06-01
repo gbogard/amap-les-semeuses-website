@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Articles de Vosges Matin
+title: Articles dans Vosges Matin
 date: 2019-05-09T12:16:39.928Z
 description: 'Découvrez 3 articles parus dans Vosges Matin liés à notre AMAP. '
 featuredimage: /img/9.jpg
