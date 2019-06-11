@@ -9,19 +9,13 @@ featuredimage: /img/15.jpg
 ---
 ![](/img/18.jpg)
 
-
-
-![](/img/19.jpg)
+![](/img/19.jpeg)
 
 Dès cette semaine, vous pourrez vous inscrire pour aider aux distributions. 
 
 Le principe est simple : nous avons besoin d’un AMAPien (au moins) par semaine, il faut donc toujours une croix sur le tableau qui sera affiché à l’entrée
 
 ![](/img/17.jpg)
-
-
-
-
 
 Il faut être là vers 18h pour aider les producteurs à s’installer, noter les noms des légumes sur le tableau… rester pendant toute la distribution pour accueillir, guider, discuter, peser… puis aider à ranger après la distribution. 
 
