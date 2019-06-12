@@ -13,7 +13,7 @@ featuredimage: /img/15.jpg
 
 Dès cette semaine, vous pourrez vous inscrire pour aider aux distributions. 
 
-Le principe est simple : nous avons besoin d’un AMAPien (au moins) par semaine, il faut donc toujours une croix sur le tableau qui sera affiché à l’entrée
+Le principe est simple : nous avons besoin d’un amapien (au moins) par semaine, il faut donc toujours une croix sur le tableau qui sera affiché à l’entrée.
 
 ![](/img/17.jpg)
 
