@@ -11,12 +11,14 @@ Nous sommes rentrées enchantées et totalement convaincues.
 
 Quelques photos de notre après-midi à Valleroy-le Sec, en attendant une présentation plus détaillée du GAEC.
 
-Et en attendant les contrats de pains, pâtes, farines et oeufs que nous vous proposerons très prochainement. 1ères distributions prévues en septembre… 
+Nous vous proposerons très prochainement des contrats de pains/oeufs et farines/pâtes. 
+
+1ères distributions prévues en septembre… 
 
 ![](/img/four-machine-à-pâtes-pétrins-bis.jpg)
 
-![](/img/les-maisons-des-poules-bis.jpg)
-
 ![](/img/trieuse-et-moulin-bis.jpg)
+
+![](/img/les-maisons-des-poules-bis.jpg)
 
 ![](/img/pâtes-et-œufs-bis.jpg)
