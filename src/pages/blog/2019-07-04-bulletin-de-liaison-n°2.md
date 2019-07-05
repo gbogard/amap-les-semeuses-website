@@ -7,4 +7,4 @@ featuredimage: /img/jumbo.jpg
 ---
 ![](/img/bul2a.jpg)
 
-![](/img/bul2b.jpg)
+![](/img/bul2bbis.jpg)
