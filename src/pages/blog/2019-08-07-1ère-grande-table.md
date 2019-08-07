@@ -9,7 +9,7 @@ La 1ère Grande Table de l'AMAP des Semeuses fut une belle réussite.
 
 Un grand merci à vous tous qui avez préparé et participé à cette soirée.
 
-Un grand merci à Aline pour son accueil et pour la visite des serres.
+Un grand merci à Aline et Jérôme pour leur accueil et pour la visite des serres.
 
 Rendez-vous l'été prochain ! :-)
 
