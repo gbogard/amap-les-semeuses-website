@@ -24,7 +24,7 @@ info: |-
   1 bis Grande Rue
   88170 Courcelles-sous-Chatenois
 
-  AmapSemeuses@tutamail.com
+  AmapSemeuses@gmail.com
 location: '{"type":"Point","coordinates":[5.815351,48.3289954]}'
 ---
 
