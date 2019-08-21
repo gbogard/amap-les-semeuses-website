@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Rappel calendriers
 date: 2019-08-21T05:37:34.942Z
 description: 'Retrouvez ici les calendriers de distribution de nos producteurs. '
-featuredimage: /img/jumbo.jpg
+featuredimage: /img/logo1.jpg
 ---
 ![](/img/rappel-des-calendriers-de-distribution-aline-nicolas.jpg)
 
