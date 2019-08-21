@@ -9,6 +9,6 @@ featuredimage: /img/jumbo.jpg
 
 ![](/img/rappel-des-calendriers-de-distribution-valentine-les-co-pains.jpg)
 
-N'oubliez pas de cocher le retrait de vos produits sur les feuilles prévues à cet effet ou de demander aux personnes que vous mandatez de la faire.
+N'oubliez pas de cocher le retrait de vos produits sur les feuilles prévues à cet effet ou de demander aux personnes que vous mandatez de le faire.
 
 Merci pour votre vigilance. ;-)
