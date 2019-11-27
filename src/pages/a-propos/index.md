@@ -18,8 +18,8 @@ Semeuses de graines, d'idées, d'espoirs, nous avons choisi de nous réunir sous
 
 Nous proposons à ce jour des paniers de légumes d'Aline, des pommes de terre de Nicolas, des yaourts de brebis de Valentine ainsi que du pain, des oeufs, des pâtes et farines des Co'pains : le tout en bio bien sûr !
 
-![](/img/pour-l-à-propos-recomposition.jpg)
-
 ### 
+
+![](/img/photo-pour-l-à-propos-2020.jpg)
 
 ###
